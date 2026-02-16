@@ -1,4 +1,4 @@
-# Hello 👋, Wonkyu here
+# 👋 Hello, Wonkyu here
 **I build things. If it helps someone, even better. If it’s fun, that’s good too.**
 
 ## 🔥 Now
