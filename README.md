@@ -17,7 +17,8 @@
 - 🧪 Experiments: utilities, LLM/agent prototypes, random builds
 
 ## 📫 Contact
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lwk9589@gmail.com" title="Gmail">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lwk9589@gmail.com"
+   target="_blank" rel="noopener noreferrer" title="Gmail">
   <img src="https://cdn.simpleicons.org/gmail" height="28" alt="Gmail" />
 </a>
 <br>
