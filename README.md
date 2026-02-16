@@ -13,7 +13,7 @@
 
 ## 🧭 Tracks
 - 🏢 Work (Private): in-house services / internal tools / dashboards (company IP)
-- 🎮 Game Dev: [Unity/stack]
+- 🎮 Game Dev: Zombie apocalypse survival game (wish)[Unity/C#]
 - 🧪 Experiments: utilities, LLM/agent prototypes, random builds
 
 ## 📫 Contact
